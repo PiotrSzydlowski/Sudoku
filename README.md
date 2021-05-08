@@ -2,5 +2,5 @@
 
 Gra sudoku napisana w bibliotece graficznej używanej w języku programowania Java - SWING
 
-https://github.com/PiotrSzydlowski/Sudoku/issues/1#issue-880957835
+![image](https://user-images.githubusercontent.com/46484603/117544746-17870280-b023-11eb-94e4-5ec7b57cfdd0.png)
 https://github.com/PiotrSzydlowski/Sudoku/issues/2#issue-880962823
